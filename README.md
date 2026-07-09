@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://i.ibb.co/BHT1ybJr/733448675-122183132972920857-86369670156712642-n.png" alt="Banner" width="100%"/>
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Md Faruk</h1>
 
 
